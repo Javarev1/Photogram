@@ -19,8 +19,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Salute"
+rootProject.name = "Photogram"
 
-include("salute-core")
-include("salute-paper")
-include("salute-velocity")
+include("core")
+include("paper")
+include("velocity")
