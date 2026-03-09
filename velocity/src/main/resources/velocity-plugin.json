@@ -1,0 +1,13 @@
+{
+  "id": "photogram",
+  "name": "Photogram",
+  "version": "${version}",
+  "authors": ["revqz"],
+  "main": "codes.revqz.photogram.velocity.PhotogramVelocityPlugin",
+  "dependencies": [
+    {
+      "id": "miniplaceholders",
+      "optional": true
+    }
+  ]
+}

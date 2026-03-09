@@ -1,0 +1,13 @@
+api-version: "1.21"
+name: Photogram
+version: ${version}
+main: codes.revqz.photogram.paper.PhotogramPaperPlugin
+authors:
+  - revqz
+folia-supported: true
+dependencies:
+  server:
+    MiniPlaceholders:
+      load: BEFORE
+      required: false
+      join-classpath: true
